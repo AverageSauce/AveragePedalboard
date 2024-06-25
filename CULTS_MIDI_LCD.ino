@@ -14,6 +14,7 @@ NOTES:
 
 I'm using one of the switches in the back to send a CC used to swap between WAH and WHAMMY, and the other is used to ddetermine wether or not to read the jack input since when the pedal is not connected it reads completely random values.
 This issue could be fixed by using one of those female jacks that disconnect when the jack is not inserted, and use its output pin as an automatic selector but I chose to keep the cost down and used parts I had.
+If you're going to use one, be extra careful about the pedal jack and the mapping, in a perfect world the analog signal would read 0-1024 but out of 3 pedals I have I found slightly different values so adjust as needed.
 
 */
 
